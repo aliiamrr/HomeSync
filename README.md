@@ -1,2 +1,2 @@
 # HomeSync
-A database projects that emulates a smart home website
+A database project that simulates a smart home website
